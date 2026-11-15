@@ -369,8 +369,7 @@ dax  sentiment-analysis  business-intelligence  hackathon  nltk
 ```
 
 <p align="center">
-  <img src="05_images/Hackathon Certificate.png" width="22.5%" />
-  <img src="Certificate.jpeg" width="70%" />
+  <img src="05_images/Hackathon Certificate.png" width="70%" />
 </p>
 
 <p align="center">
