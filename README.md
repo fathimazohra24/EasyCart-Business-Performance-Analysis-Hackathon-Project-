@@ -16,7 +16,7 @@
 
 **🏆 SmartTech Center Hackathon
 
-– Data Analytics Hackathon | Top 1 out of ~30 Teams**
+– Data Analytics Hackathon | **Top 1 out of 30 Teams**
 
 *A full end-to-end data analysis project: from a raw legacy .bak database to actionable business insights and an AI-powered sentiment analysis bonus.*
 
@@ -54,7 +54,7 @@ This project simulates a real-world marketing analytics engagement where raw, in
 | 💵 Total Revenue | **43.36K** |
 | 🛒 Total Purchases | **198** |
 | 📝 Reviews Analyzed (Python) | **1,363** |
-| 🏆 Hackathon Result | **Top 1 / ~30 Teams** |
+| 🏆 Hackathon Result | **Top 1 / 30 Teams** |
 
 <p align="center">
   <img src="https://hyperweave.app/v1/divider/band/chrome.static" alt="chrome band divider" width="100%"/>
@@ -329,7 +329,7 @@ python 03_Sentiment_Analysis/sentiment_analysis.py
 
 ## 🥉 Hackathon Outcome
 
-Secured among the **FIRST PLACE** out of approximately 30 in the SmartTech Center Data Analytics Hackathon.
+Secured **FIRST PLACE** out of approximately 30 teams in SmartTech Center Data Analytics Hackathon.
 
 Key differentiators that contributed:
 - Strong data cleaning architecture using Nested CTEs (non-destructive abstraction layer)
@@ -352,12 +352,7 @@ Key differentiators that contributed:
   <img src="https://hyperweave.app/v1/divider/band/chrome.static" alt="chrome band divider" width="100%"/>
 </p>
 
-## 🔎 Suggested GitHub Topics
 
-```
-sql-server  power-bi  data-analysis  marketing-analytics
-dax  sentiment-analysis  business-intelligence  hackathon  nltk
-```
 
 <p align="center">
   <img src="https://hyperweave.app/v1/divider/band/chrome.static" alt="chrome band divider" width="100%"/>
@@ -365,7 +360,7 @@ dax  sentiment-analysis  business-intelligence  hackathon  nltk
 
 ## 📜HACKATHON Certificate 🏅
 ```
- Orange Digital Center Egypt & Instant Software Solutions
+ SmartTech Center India & Instant Software Solutions
 ```
 
 <p align="center">
