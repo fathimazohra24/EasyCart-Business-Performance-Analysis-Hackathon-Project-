@@ -14,7 +14,9 @@
 ![Award](https://img.shields.io/badge/Award-Top%203%20Winner-gold?style=for-the-badge&logo=google-cloud)
 
 
-**🏆 Orange Digital Center – Marketing Analytics Hackathon | Top 3 out of ~30 Teams**
+**🏆 NextGen Tech Hackathon
+
+– Data Analytics Hackathon | Top 1 out of ~30 Teams**
 
 *A full end-to-end data analysis project: from a raw legacy .bak database to actionable business insights and an AI-powered sentiment analysis bonus.*
 
