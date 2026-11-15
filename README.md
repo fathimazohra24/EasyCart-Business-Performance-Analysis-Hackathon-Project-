@@ -14,7 +14,7 @@
 ![Award](https://img.shields.io/badge/Award-Top%203%20Winner-gold?style=for-the-badge&logo=google-cloud)
 
 
-**🏆 NextGen Tech Hackathon
+**🏆 SmartTech Center Hackathon
 
 – Data Analytics Hackathon | Top 1 out of ~30 Teams**
 
@@ -54,7 +54,7 @@ This project simulates a real-world marketing analytics engagement where raw, in
 | 💵 Total Revenue | **43.36K** |
 | 🛒 Total Purchases | **198** |
 | 📝 Reviews Analyzed (Python) | **1,363** |
-| 🏆 Hackathon Result | **Top 3 / ~30 Teams** |
+| 🏆 Hackathon Result | **Top 1 / ~30 Teams** |
 
 <p align="center">
   <img src="https://hyperweave.app/v1/divider/band/chrome.static" alt="chrome band divider" width="100%"/>
@@ -107,17 +107,17 @@ easycart-business-performance-analytics/
 ├── 📄 README.md
 ├── 📄 .gitignore
 │
-├── 📁 01_problem_statement/
+├── 📁 01_Problem_Statement/
 │   └── DA_Marketing_Project.pdf          ← Original hackathon brief
 │
-├── 📁 02_data_cleaning/                  ← SQL Server Nested CTEs
+├── 📁 02_Data_Cleaning/                  ← SQL Server Nested CTEs
 │   ├── README.md                         ← Cleaning strategy explained
 │   ├── customers.sql
 │   ├── customer_journey.sql
 │   ├── customer_reviews.sql
 │   └── engagement_data.sql
 │
-├── 📁 03_sentiment_analysis/
+├── 📁 03_Sentiment_Analysis/
 │   ├── sentiment_analysis.py             ← VADER-based scoring (0–10)
 │   ├── requirements.txt
 │   └── full_score_reviews.xlsx           ← Output used in Power BI
@@ -298,9 +298,9 @@ See full story → [`06_Docs/challenges_and_decisions.md`](06_Docs/challenges_an
 
 ### Sentiment Analysis
 ```bash
-pip install -r 03_Sentiment_analysis/requirements.txt
+pip install -r 03_Sentiment_Analysis/requirements.txt
 # Update SERVER_NAME and DATABASE_NAME in sentiment_analysis.py
-python 03_Sentiment_analysis/sentiment_analysis.py
+python 03_Sentiment_Analysis/sentiment_analysis.py
 ```
 
 ### Power BI Dashboard
@@ -329,7 +329,7 @@ python 03_Sentiment_analysis/sentiment_analysis.py
 
 ## 🥉 Hackathon Outcome
 
-Recognized among the **Top 3 teams** out of approximately 30 in the Orange Digital Center Marketing Analytics Hackathon.
+Secured among the **FIRST PLACE** out of approximately 30 in the SmartTech Center Data Analytics Hackathon.
 
 Key differentiators that contributed:
 - Strong data cleaning architecture using Nested CTEs (non-destructive abstraction layer)
