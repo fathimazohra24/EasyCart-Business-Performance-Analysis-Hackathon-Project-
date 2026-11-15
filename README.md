@@ -261,7 +261,7 @@ rating = int(round(((score + 1) / 2) * 9 + 1))  # Maps [-1, 1] → [1, 10]
 
 ## ⚔️ Challenges & How We Solved Them
 
-See full story → [`06_docs/challenges_and_decisions.md`](06_docs/challenges_and_decisions.md) .  [`06_docs/data_dictionary.md`](06_docs/data_dictionary.md) 
+See full story → [`06_Docs/challenges_and_decisions.md`](06_Docs/challenges_and_decisions.md) .  [`06_Docs/data_dictionary.md`](06_Docs/data_dictionary.md) 
 
 | Challenge | Solution |
 |---|---|
@@ -292,15 +292,15 @@ See full story → [`06_docs/challenges_and_decisions.md`](06_docs/challenges_an
 ## 🚀 How to Run
 
 ### SQL Cleaning Scripts
-1. Restore `MarketingAnalyticsProject.bak` to SQL Server
+1. Restore `DataAnalyticsProject.bak` to SQL Server
 2. Run each `.sql` file in `02_data_cleaning/` to preview clean data
 3. Use the final `SELECT` from each CTE as the Power BI import query
 
 ### Sentiment Analysis
 ```bash
-pip install -r 03_sentiment_analysis/requirements.txt
+pip install -r 03_Sentiment_analysis/requirements.txt
 # Update SERVER_NAME and DATABASE_NAME in sentiment_analysis.py
-python 03_sentiment_analysis/sentiment_analysis.py
+python 03_Sentiment_analysis/sentiment_analysis.py
 ```
 
 ### Power BI Dashboard
@@ -344,9 +344,9 @@ Key differentiators that contributed:
 
 ## 👥 Team
 
-**Orange Digital Center – iNSTANT Hackathon**
+**SmartTech Center – iNSTANT Hackathon**
 *Data Analysis Track | ~30 competing teams*
-*🏆 M A A Z O Team* 
+*🏆 M A Z O Team* 
 
 <p align="center">
   <img src="https://hyperweave.app/v1/divider/band/chrome.static" alt="chrome band divider" width="100%"/>
